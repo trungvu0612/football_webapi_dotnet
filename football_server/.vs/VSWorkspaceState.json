@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FootBall.Domain",
+    "\\FootBall.Domain\\Common",
+    "\\FootBall.Domain\\Interfaces",
+    "\\FootBall.Persistence",
+    "\\FootBall.Persistence\\Repositories",
+    "\\WebApplicationFootBall",
+    "\\WebApplicationFootBall\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
